@@ -1,0 +1,20 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.StoryAppLite" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/dusty_rose</item>
+        <item name="colorPrimaryVariant">@color/rosewater</item>
+        <item name="colorOnPrimary">@color/coffee_pot_3</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/coffee_pot_2</item>
+        <item name="colorSecondaryVariant">@color/rosewater</item>
+        <item name="colorOnSecondary">@color/coffee_pot</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.StoryAppLite" parent="Base.Theme.StoryAppLite" />
+</resources>

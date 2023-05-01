@@ -1,0 +1,19 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.StoryAppLite" parent="Theme.Material3.DayNight">
+
+        <!-- Theme.Material3.DayNight.NoActionBar -->
+
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/midnight_blue</item>
+        <item name="colorPrimaryVariant">@color/blue_gray</item>
+        <item name="colorOnPrimary">@color/baby_blue</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/dark_blue</item>
+        <item name="colorSecondaryVariant">@color/blue_gray</item>
+        <item name="colorOnSecondary">@color/baby_blue</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

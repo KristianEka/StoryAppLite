@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/add_story"
+        android:icon="@drawable/ic_add_a_photo"
+        android:title="@string/add_story"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/open_map"
+        android:icon="@drawable/ic_map"
+        android:title="@string/open_map"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/change_language"
+        android:title="@string/change_language" />
+
+    <item
+        android:id="@+id/logout"
+        android:title="@string/logout" />
+
+</menu>
