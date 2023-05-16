@@ -1,9 +1,32 @@
 # StoryAppLite-Dicoding-BPAAI
 StoryAppLite Dicoding-BPAAI (Belajar Pengembangan Aplikasi Android Intermediate)
 
+<br>
+
 > **Warning**
 > 
 > IF YOU ARE WORKING ON THE SAME SUBMISSION, PLEASE DO NOT COPY PASTE, JUST USE THIS AS A REFERENCE MATERIAL ONLY
+
+<br>
+
+## Made with
+- Kotlin
+- Android View
+- Custom View
+- Retrofit
+- DataStore
+- Paging3
+- Remote Mediator
+- Room
+- Maps SDK
+- LiveData
+- MVVM
+- Coroutines
+- Glide
+- CameraX
+- Unit Testing
+
+<br>
 
 ## Screenshots
 | Welcome | Register | Login |
