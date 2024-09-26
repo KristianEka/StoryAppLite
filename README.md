@@ -7,6 +7,7 @@ This project is part of the **Dicoding "Belajar Pengembangan Aplikasi Android In
 > If you are working on the same submission, please **do not copy-paste**. Use this repository as a **reference material only**.
 
 <br>
+
 ## Features 📱
 - **User Registration & Login:** Securely register and log in users.
 - **Story Upload:** Capture images using **CameraX** or upload from the gallery to share stories.
